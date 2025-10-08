@@ -60,6 +60,10 @@ button.equal {
   color: #fff;
 }
 
+button.equal:hover {
+  background: #28a745;
+}
+
 button.clear {
   background: #ff3b30;
   color: #fff;
